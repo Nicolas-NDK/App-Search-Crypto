@@ -2,14 +2,12 @@
   Crypto Tracker
   <p>Um App para pesquisar o valor em BRL das Crypto Moedas</p>
 </h1>
-
 <h1 align="center">
   <p align="center">
-    <img src="./img/mockup_profile.png" width="200">
-    <img src="./img/mockup_schedule.png" width="200">
+    <img src="https://user-images.githubusercontent.com/90864011/232344226-9159fa74-30ff-4d2d-8200-ac4788cdef8e.PNG" width="200">
+    <img src="https://user-images.githubusercontent.com/90864011/232344224-cf27e468-e506-4cd4-a0cf-c630fe966580.PNG" width="200">
   </p>
 </h1>
-
 
 
 ### 🔽 Requisitos
